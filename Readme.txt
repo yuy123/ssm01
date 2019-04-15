@@ -1,6 +1,7 @@
-搭建的springmvc+ mybatis+spring
+da jian d springmvc+ mybatis+spring
 
 mysql5.0
 
-第一次测试
-diyici ceshi 
+
+di yi ci ce shi 
+han zi chu xian luan ma
